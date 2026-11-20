@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CNPM\\QLTV4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|D:\\CNPM\\QLTV4\\fhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|solutionrelative:fhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|D:\\CNPM\\QLTV4\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|solutionrelative:fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|d:\\cnpm\\qltv4\\fhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|solutionrelative:fhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|D:\\CNPM\\QLTV4\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|D:\\CNPM\\QLTV4\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|solutionrelative:fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|D:\\CNPM\\QLTV4\\fhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|solutionrelative:fhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|D:\\CNPM\\QLTV4\\fsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|solutionrelative:fsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|D:\\CNPM\\QLTV4\\finformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|solutionrelative:finformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|D:\\CNPM\\QLTV4\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|solutionrelative:flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|D:\\CNPM\\QLTV4\\fchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|solutionrelative:fchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|D:\\CNPM\\QLTV4\\fsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|solutionrelative:fsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|D:\\CNPM\\QLTV4\\fupdateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|solutionrelative:fupdateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|D:\\CNPM\\QLTV4\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|solutionrelative:flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|D:\\CNPM\\QLTV4\\fchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|solutionrelative:fchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|D:\\CNPM\\QLTV4\\fchangepass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|solutionrelative:fchangepass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|D:\\CNPM\\QLTV4\\finformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|solutionrelative:finformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|D:\\CNPM\\QLTV4\\fupdateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|solutionrelative:fupdateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|D:\\CNPM\\QLTV4\\QLTV.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{53AE44CE-7183-4A0B-8269-E4A5B878B6E3}|QLTV.csproj|solutionrelative:QLTV.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 155,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fHome.cs",
+              "DocumentMoniker": "D:\\CNPM\\QLTV4\\fHome.cs",
+              "RelativeDocumentMoniker": "fHome.cs",
+              "ToolTip": "D:\\CNPM\\QLTV4\\fHome.cs",
+              "RelativeToolTip": "fHome.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAWwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:01:09.035Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fAdmin.cs",
+              "DocumentMoniker": "D:\\CNPM\\QLTV4\\fAdmin.cs",
+              "RelativeDocumentMoniker": "fAdmin.cs",
+              "ToolTip": "D:\\CNPM\\QLTV4\\fAdmin.cs",
+              "RelativeToolTip": "fAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:18:57.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fSearch.cs [Design]",
+              "DocumentMoniker": "D:\\CNPM\\QLTV4\\fSearch.cs",
+              "RelativeDocumentMoniker": "fSearch.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\QLTV3\\fSearch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:08:24.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fSearch.cs",
+              "DocumentMoniker": "D:\\CNPM\\QLTV4\\fSearch.cs",
+              "RelativeDocumentMoniker": "fSearch.cs",
+              "ToolTip": "D:\\CNPM\\QLTV4\\fSearch.cs",
+              "RelativeToolTip": "fSearch.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAuwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:11:14.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fHome.cs [Design]",
+              "DocumentMoniker": "D:\\CNPM\\QLTV4\\fHome.cs",
+              "RelativeDocumentMoniker": "fHome.cs",
+              "ToolTip": "D:\\CNPM\\QLTV4\\fHome.cs [Design]",
+              "RelativeToolTip": "fHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:00:49.454Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\CNPM\\QLTV4\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\CNPM\\QLTV4\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T05:12:39.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fChangePass.cs [Design]",
+              "DocumentMoniker": "D:\\CNPM\\QLTV4\\fChangePass.cs",
+              "RelativeDocumentMoniker": "fChangePass.cs",
+              "ToolTip": "F:\\game\\QLTV3\\fChangePass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:46:48.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "fChangePass.cs",
+              "DocumentMoniker": "D:\\CNPM\\QLTV4\\fChangePass.cs",
+              "RelativeDocumentMoniker": "fChangePass.cs",
+              "ToolTip": "D:\\CNPM\\QLTV4\\fChangePass.cs",
+              "RelativeToolTip": "fChangePass.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAwKcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:47:04.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fInformation.cs [Design]",
+              "DocumentMoniker": "D:\\CNPM\\QLTV4\\fInformation.cs",
+              "RelativeDocumentMoniker": "fInformation.cs",
+              "ToolTip": "F:\\game\\QLTV3\\fInformation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:38:56.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\CNPM\\QLTV4\\fAdmin.cs",
+              "RelativeDocumentMoniker": "fAdmin.cs",
+              "ToolTip": "D:\\CNPM\\QLTV4\\fAdmin.cs [Design]",
+              "RelativeToolTip": "fAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:44:02.619Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fLogin.cs",
+              "DocumentMoniker": "D:\\CNPM\\QLTV4\\fLogin.cs",
+              "RelativeDocumentMoniker": "fLogin.cs",
+              "ToolTip": "D:\\CNPM\\QLTV4\\fLogin.cs",
+              "RelativeToolTip": "fLogin.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAuwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:49:48.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "fUpdateInfo.cs [Design]",
+              "DocumentMoniker": "D:\\CNPM\\QLTV4\\fUpdateInfo.cs",
+              "RelativeDocumentMoniker": "fUpdateInfo.cs",
+              "ToolTip": "F:\\game\\QLTV3\\fUpdateInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:25:50.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "fUpdateInfo.cs",
+              "DocumentMoniker": "D:\\CNPM\\QLTV4\\fUpdateInfo.cs",
+              "RelativeDocumentMoniker": "fUpdateInfo.cs",
+              "ToolTip": "D:\\CNPM\\QLTV4\\fUpdateInfo.cs",
+              "RelativeToolTip": "fUpdateInfo.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAwM4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:27:05.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "fInformation.cs",
+              "DocumentMoniker": "D:\\CNPM\\QLTV4\\fInformation.cs",
+              "RelativeDocumentMoniker": "fInformation.cs",
+              "ToolTip": "D:\\CNPM\\QLTV4\\fInformation.cs",
+              "RelativeToolTip": "fInformation.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAYwKMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:41:57.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "D:\\CNPM\\QLTV4\\fLogin.cs",
+              "RelativeDocumentMoniker": "fLogin.cs",
+              "ToolTip": "F:\\game\\QLTV3\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:49:46.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fHome.Designer.cs",
+              "DocumentMoniker": "D:\\CNPM\\QLTV4\\fHome.Designer.cs",
+              "RelativeDocumentMoniker": "fHome.Designer.cs",
+              "ToolTip": "D:\\CNPM\\QLTV4\\fHome.Designer.cs",
+              "RelativeToolTip": "fHome.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T06:00:56.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "fChangePass.Designer.cs",
+              "DocumentMoniker": "D:\\CNPM\\QLTV4\\fChangePass.Designer.cs",
+              "RelativeDocumentMoniker": "fChangePass.Designer.cs",
+              "ToolTip": "D:\\CNPM\\QLTV4\\fChangePass.Designer.cs",
+              "RelativeToolTip": "fChangePass.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:31:41.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QLTV.csproj",
+              "DocumentMoniker": "D:\\CNPM\\QLTV4\\QLTV.csproj",
+              "RelativeDocumentMoniker": "QLTV.csproj",
+              "ToolTip": "D:\\CNPM\\QLTV4\\QLTV.csproj",
+              "RelativeToolTip": "QLTV.csproj",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwEwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T10:29:59.078Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
